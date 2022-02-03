@@ -17,3 +17,11 @@ How to use:
 7. Click bookmark to activate the javascript code
 
 Have fun!
+
+
+
+## Notes on alphabetic tile sort
+Works only for small number of participants and only for those tiles that are in view due to performance enhancements at Jitsi's side.
+
+# Notes on alphabetic sort on participant list
+When using the auto-bookmarklet, which triggers a sort every second if necessary, you need to have the participant pane open when starting the script.
